@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# 20/07
 SELECT e2.name
 FROM Employee e1 
 JOIN Employee e2 
