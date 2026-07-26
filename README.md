@@ -57,4 +57,14 @@ The purpose of this repository is to:
 2. Read and understand the query.
 3. Try solving the problem yourself before viewing the solution.
 
+## ⭐ Support
 
+If you find this repository helpful, consider giving it a ⭐.
+
+---
+
+### 👨‍💻 Author
+
+**Vaibhav Avhad**
+
+> "Consistency in practice is the key to mastering SQL."
