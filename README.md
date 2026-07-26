@@ -46,3 +46,15 @@ The purpose of this repository is to:
 
 - MySQL
 
+## 📈 Progress
+
+- ✅ 50+ SQL Problems Solved
+- 🔄 Repository is regularly updated with new solutions.
+
+## 💡 How to Use
+
+1. Browse the SQL solutions.
+2. Read and understand the query.
+3. Try solving the problem yourself before viewing the solution.
+
+
